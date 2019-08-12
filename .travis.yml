@@ -15,7 +15,7 @@ install:
   - go get github.com/mitchellh/gox
   - go get github.com/tcnksm/ghr
 after_success:
-  - ./release
+  - ./release.sh
 notifications:
   email: false
 branches:
