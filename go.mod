@@ -7,7 +7,7 @@ require (
 	github.com/alicebob/miniredis v2.5.0+incompatible
 	github.com/gomodule/redigo v2.0.0+incompatible // indirect
 	github.com/sergi/go-diff v1.0.0
-	github.com/sirupsen/logrus v1.4.2
+	github.com/sirupsen/logrus v1.8.3
 	github.com/urfave/cli v1.21.0
 	github.com/yuin/gopher-lua v0.0.0-20190514113301-1cd887cd7036 // indirect
 )
